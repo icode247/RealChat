@@ -1,0 +1,9 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.nav-row {
+  display: flex;
+  justify-content: space-between;
+}
